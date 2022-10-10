@@ -1,9 +1,9 @@
 ref,from,to,via,intermediates,opening-hours,exceptions,duration,intermediate-durations,frequency
-1,Lower Mibawa Minibus Station,Limbe Market,,,Mo-Sa 06:00-19:00,,30,,10
-1,Soso Depot,Limbe Market,,AXA Buses,Mo-Sa 06:00-19:00,,30,10,10
-1,Lower Mibawa Minibus Station,Limbe Market,,"#3075050114 ,#3075048991",Mo-Sa 06:00-19:00,,30,10,10
-1,Limbe Market,Chiwembe Stage,,,Mo-Sa 06:00-19:00,,30,,10
-1,Soso Depot,Limbe Market,,Minibuses Zomba,Mo-Sa 06:00-19:00,,30,10,10
-1,Limbe Market,#5424797351,,,Mo-Sa 06:00-19:00,,30,,10
-1,Lower Mibawa Minibus Station,Wenela Bus Station,,,Mo-Sa 06:00-19:00,,30,,10
-1,Limbe Market,#3075048991,,,Mo-Sa 06:00-19:00,,30,,10
+1,Lower Mibawa Minibus Station,Limbe Market,,,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,,10
+2,Soso Depot,Limbe Market,,AXA Buses,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,10,10
+3,Lower Mibawa Minibus Station,Limbe Market,,"#3075050114 ,#3075048991",Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,10,10
+4,Limbe Market,Chiwembe Stage,,,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,,10
+5,Soso Depot,Limbe Market,,Minibuses Zomba,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,10,10
+6,Limbe Market,#5424797351,,,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,,10
+7,Lower Mibawa Minibus Station,Wenela Bus Station,,,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,,10
+8,Limbe Market,#3075048991,,,Mo-Sa 05:40-18:20;Mo-Sa 18:50,,30,,10
